@@ -2,6 +2,8 @@
 slug: /dev/event-listeners
 ---
 
+
+#<b>SUBSCRIBE TO BEETCODEMC LOL<b>
 # Event Listeners
 
 Events are an efficient way to listen for specific actions that happen in the game. They can be called by the server, or by plugins. 
